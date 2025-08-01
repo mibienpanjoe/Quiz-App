@@ -16,7 +16,7 @@ A simple and interactive quiz application built to test users' knowledge with a 
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/mibienpanjoe/Quiz-App.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
