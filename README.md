@@ -1,2 +1,2 @@
 # Quiz-App
-A simple and interactive quiz application in HTML , CSS &amp; JS
+Chech the master branch to find the code and the details in readme.md file
